@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684584499 source:d:\programming\projekt_algo\codeblocks\projekt_algo_with_dll\main.cpp
+	"konwersjadll.h"
+
+1684586012 d:\programming\projekt_algo\codeblocks\projekt_algo_with_dll\konwersjadll.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+

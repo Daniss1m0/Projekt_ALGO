@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684582316 source:d:\programming\projekt_algo\codeblocks\projekt_algo\konwersja.cpp
+	"konwersja.h"
+
+1684582630 source:d:\programming\projekt_algo\codeblocks\projekt_algo\main.cpp
+	"konwersja.h"
+
+1684582311 d:\programming\projekt_algo\codeblocks\projekt_algo\konwersja.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+
